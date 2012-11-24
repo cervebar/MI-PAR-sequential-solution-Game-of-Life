@@ -1,0 +1,5 @@
+width=4
+height=8
+start configuration=00000000000000000000011001100000
+iterations=2
+a-mistake=5
